@@ -38,7 +38,6 @@
 
   First of all to use `POST` methods check how to made [HTTP Authorization](#http-authorization)
   Use next methods via `POST` and obtain full information:
-![image](https://github.com/PatexGit/api-documentation/assets/141410609/bfd3c9f5-9a81-4614-892f-d85f071384af)
 
   - [List of Public Pairs](#list-of-public-pairs)
   - [Specific Public Ticker Data](#specific-public-ticker-data)
